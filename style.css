@@ -20,7 +20,8 @@ body {
     height: 50px;
     background-color: #eee;
     display: flex;
-    align-items: center;
+    align-items: right;
+    text-align: right;
     justify-content: flex-end;
     padding: 0 10px;
     font-size: 24px;
